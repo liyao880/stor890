@@ -1,0 +1,58 @@
+
+/* If your theme uses a slightly different class */
+.page-header {
+  background-color: #213D40 !important;
+  background-image: none !important;
+}
+
+/* Change table header color */
+table th {
+  background-color: #38858A !important;  
+  color: white !important;                /* text color */
+  font-weight: 600;
+}
+
+/* Change table border (optional) */
+table {
+  border-color: #4B9CD3 !important;
+}
+
+/* Increase padding for nicer tables */
+table th, table td {
+  padding: 10px 12px;
+}
+
+/* Subtle row shading */
+table tr:nth-child(even) td {
+  background-color: #f6f6f6;
+}
+
+/* Change only in-body h1 headings, not the banner */
+.main-content h1,
+.container h1 {
+  color: #275A5E !important;
+}
+
+
+h2 {
+  color: #38858A !important;   /* slightly darker UNC blue */
+}
+
+h3 {
+  color: #7fc8c9 !important;   /* lighter UNC accent */
+}
+
+/* Override prettydoc cayman link color */
+.main-content a,
+.page-content a,
+.container a {
+  color: #38858A !important;   /* Color 03 */
+}
+
+.main-content a:hover,
+.page-content a:hover,
+.container a:hover {
+  color: #7FC8C9 !important;   /* Color 04 */
+  text-decoration: underline;
+}
+

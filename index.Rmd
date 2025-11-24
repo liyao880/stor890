@@ -1,9 +1,10 @@
 ---
-title: '**STOR 566: Intro to Deep Learning**'
+title: '**STOR 890: Trustworthy Machine Learning**'
 geometry: margin=2
 output:
   prettydoc::html_pretty:
-    theme: architect
+    theme: cayman
+    css: custom.css
   html_document:
     toc: yes
     df_print: paged
@@ -11,112 +12,55 @@ output:
     toc: yes
 ---
 
-<style type="text/css">
 
-div {
-color: #13294B;
-}
-
-#TOC {
-  color: #4B9CD3;
-}
-
-.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
-  color: #4B9CD3;
-  background-color: #13294B;
-}
-
-a:link {
-    color: #4B9CD3;
-    text-decoration: none;
-}
-
-a:visited {
-        text-decoration: none;
-color: #4B9CD3;
-
-}
-a:hover {
-color: #4B9CD3;
-background-color: #13294B;
-}
-
-.main-container {
-  max-width: 300px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.column {
-  float: left;
-  width: 50%;
-}
-
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-} 
-
-</style>
 
 # **About the Course**
 
-See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networks (DNNs) have been widely used for tackling numerous machine learning problems that were once believed to be challenging. With their remarkable ability of fitting training data, DNNs have achieved revolutionary successes in many fields such as computer vision, natural language progressing, and robotics. This is an introduction course to deep learning. Topics covered by this course include but are not limited to:
+See the **[syllabus](Syllabi/890_Syllabus.pdf)** for details. This topics course is designed for graduate students who are interested in the emerging area of AI security and trustworthy machine learning. Modern machine learning systems are increasingly deployed in high-stakes applications, making it essential to understand their vulnerabilities, limitations, and the principles needed to ensure reliability. The goal of this course is to help students develop a solid conceptual and practical foundation in the security and trustworthiness aspects of machine learning by studying core threat models, analyzing state-of-the-art research papers, and working on research-oriented projects. 
 
-1. Machine Learning Overview
-2. Optimization
-3. MLP, CNN, RNN, GNN
-4. Generative models
-5. Advanced topics
 
 - Instructor: **[Yao Li](https://liyao880.github.io/yaoli/)**
 
-- Teaching Assistant: **[Seong Jin Lee](https://stor.unc.edu/people/graduate-students/)**
-    
 - Class: TTH 8:00AM-9:15AM, Hanes 125
-    
-- Office Hours:
-    - Instructor Office Hours: W 11:00AM-12:00PM, Hanes 334
-    - TA Office Hours: MF 2:00PM-3:00PM, [Zoom](https://unc.zoom.us/j/99440603579)
+
+- Office Hours: W 11:00AM-12:00PM, Hanes 334
 
 
 # **Course Material**
 
-| Date | Lecture | Slides | Tutorial|
-|------|-----------------------|-------:|----------:|
-|Aug. 19| Welcome |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1ZLgMuarDhe2nHdk-3QTcPywXgPbZU_Cq/view?usp=sharing">Slides</a>| |
-|Aug. 21| Overview of Machine Learning |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/12ORJB-QKOXnN2vs4HpocRbtzpf8Qk-8f/view?usp=sharing">Slides</a>|<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1ky_ypXVHpql89OSIMu1M8PF2VRSojVrg/view?usp=sharing">Tutorial 1</a> |
-|Aug. 26| Linear Regression and Classification |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1s9dZfMpFWrxEsrEFc-qBK_mZfpoEjbd6/view?usp=sharing">Slides</a>| |
-|Aug. 28| Optimization |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1Xs-PklCA-m-Kp0SG7B9jp4kHut08sWfz/view?usp=sharing">Slides</a> | Quiz 1 |
-|Sep. 02| Neural Networks I |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1Xmi2Fzdghs0c1PO5F_5qq13R9zAdpXLx/view?usp=sharing">Slides</a>| <a href="#" class="protected-link" data-url="https://colab.research.google.com/drive/1SIR65Sr_MqpgDPzr3kwjeROmEe5VMueG?usp=sharing">Tutorial 2</a>|
-|Sep. 04| Neural Networks II|| |
-|Sep. 09| Convolutional Neural Networks I |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1vIlxxrdJw7djkDFHAS-l6evgYA0tHbi-/view?usp=sharing">Slides</a>|Quiz 2 |
-|Sep. 11| Convolutional Neural Networks II |<a href="#" class="protected-link" data-url="https://colab.research.google.com/drive/12OTyDqb3mWqOjYzvzlo_p7KWfBTdA-3x?usp=sharing">Tutorial 3</a>| <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/11MA3wMJabaufBjKOUcHW6wyWtpvMJCkS/view?usp=drive_link">ResNet</a>|
-|Sep. 16| Recurrent Neural Networks I|<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/14v1nySA-YY5y-2V12mV1Ca7PQBrUlio8/view?usp=sharing">Slides</a>| |
-|Sep. 18| Recurrent Neural Networks II ||Quiz 3 |
-|Sep. 23| Project Proposal Discussion || |
-|Sep. 25| Project Proposal Discussion || |
-|Sep. 30| GRU and LSTM |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1hP5_mo8h551nGXoA-Ir9dPNfu15AAlAJ/view?usp=sharing">Slides</a>||
-|Oct. 02| NLP Pre-training |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1e1FPEJ-sHR4oeCRudyteefc29dTgCo8i/view?usp=sharing">Slides</a>| <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/11diJdlCbAuK_YXp2aecI2Dz3LFl6VUwW/view?usp=sharing">Word2Vec</a>|
-|Oct. 07| Well-Being Day || |
-|Oct. 09| Transformer |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1JDEI6HcljB-69KuV8tNfM2b466vgKaO8/view?usp=sharing">Slides</a>| |
-|Oct. 14| Vision Transformer |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1xBW6_WcvUXNAfC4ldvqmiJh4nDX_Rhok/view?usp=sharing">Slides</a>|Quiz 4 |
-|Oct. 16| Fall Break || |
-|Oct. 21| BERT |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/117J-dhEgEUnbXnmOH8ZwCt9OhFwl9RME/view?usp=sharing">Slides</a>| <a href="#" class="protected-link" data-url="https://colab.research.google.com/drive/18p-wQAzJWtI1o6svol8CpRuueffe5S5-?usp=sharing">Tutorial 4</a> |
-|Oct. 23| Generative Models I |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/17T5joRvHyt3l8G2tqOt3hDoXhw9nR8Yo/view?usp=sharing">Slides</a>| |
-|Oct. 28| Generative Models II |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1ZqvEYVt7oC36wXpPHLzk2vmpd36vHLxt/view?usp=sharing">Slides</a>| |
-|Oct. 30| Generative Models III |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1y4uxHIij0rLodlelz72_lFKZmaNnnrqZ/view?usp=sharing">DDPM</a> | Quiz 5|
-|Nov. 04| Generative Models IV ||<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/12vMTnnvOXYxPOrA1Admu-0UV5vubmEP1/view?usp=sharing">CLIP</a> |
-|Nov. 06| Adversarial Learning  |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1LnNZaf4457VsbR4U6W4siU9yRA1dZxj6/view?usp=sharing">Slides</a>| |
-||   |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/16aVT4fdSd4TT5Hj9-vxLO5JbaiQcsuIT/view?usp=sharing">Slides</a>| |
-|Nov. 11| AI Security |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/13R24gMNbG90-SF5uvBJS2PlQ8jgNb6y8/view?usp=sharing">Slides</a>| |
-|Nov. 13| Explainable AI  |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1USbrKjW9u9wy21ZlHE1PKrVygTLUmyPl/view?usp=sharing">Slides</a>| Quiz 6 |
-|Nov. 18| LLM |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/176rxtX8SA5i6qdI58IWQTSlQEHM78K1X/view?usp=sharing">Slides</a>|<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/17DsYZhrGY1wy3ZjwVHl2kIFBq4LOdD-T/view?usp=sharing">Mini GPT4</a>|
-|Nov. 20| Final Presentation || |
-|Nov. 25| Final Presentation || |
-|Nov. 27| Thanksgiving || |
-|Dec. 02| Final Presentation || |
+| Date | Lecture/Paper | Slides | 
+|--|------------------------------|----:|
+|Jan. 08| Welcome | | 
+|Jan. 13| MLP and CNN | | 
+|Jan. 15| RNN | | 
+|Jan. 20| Transformer | | 
+|Jan. 22| Travel (Class Cancel) | | 
+|Jan. 27| Generative models  | | 
+|Jan. 29| LLM | | 
+|Feb. 03| Poisoning attack| | 
+|Feb. 05| Backdoor attack | | 
+|Feb. 10| Backdoor defense | | 
+|Feb. 12| Federated learning | | 
+|Feb. 17| Project Proposal Discussion || 
+|Feb. 19| Project Proposal Discussion || 
+|Feb. 24| Adversarial attack || 
+|Feb. 26| Adversarial defense || 
+|Mar. 03| Certified robustness | | 
+|Mar. 05| Differential privacy | | 
+|Mar. 10| Membership inference attack || 
+|Mar. 12| Model inversion attack || 
+|Mar. 17| Spring Break || 
+|Mar. 19| Spring Break | | 
+|Mar. 24| Explainable AI | | 
+|Mar. 26| Fairness | | 
+|Mar. 31| Uncertainty | | 
+|Apr. 02| Well-being Day | | 
+|Apr. 07| Jailbreak attack|| 
+|Apr. 09| Safety alignment || 
+|Apr. 14| Backdoor in LLM || 
+|Apr. 16| Hallucination || |
+|Apr. 21| Final Presentation || 
+|Apr. 23| Final Presentation || 
 
 
 # **Homework Tracker**
