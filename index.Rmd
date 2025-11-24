@@ -1,0 +1,218 @@
+---
+title: '**STOR 566: Intro to Deep Learning**'
+geometry: margin=2
+output:
+  prettydoc::html_pretty:
+    theme: architect
+  html_document:
+    toc: yes
+    df_print: paged
+  pdf_document:
+    toc: yes
+---
+
+<style type="text/css">
+
+div {
+color: #13294B;
+}
+
+#TOC {
+  color: #4B9CD3;
+}
+
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+  color: #4B9CD3;
+  background-color: #13294B;
+}
+
+a:link {
+    color: #4B9CD3;
+    text-decoration: none;
+}
+
+a:visited {
+        text-decoration: none;
+color: #4B9CD3;
+
+}
+a:hover {
+color: #4B9CD3;
+background-color: #13294B;
+}
+
+.main-container {
+  max-width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+} 
+
+</style>
+
+# **About the Course**
+
+See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networks (DNNs) have been widely used for tackling numerous machine learning problems that were once believed to be challenging. With their remarkable ability of fitting training data, DNNs have achieved revolutionary successes in many fields such as computer vision, natural language progressing, and robotics. This is an introduction course to deep learning. Topics covered by this course include but are not limited to:
+
+1. Machine Learning Overview
+2. Optimization
+3. MLP, CNN, RNN, GNN
+4. Generative models
+5. Advanced topics
+
+- Instructor: **[Yao Li](https://liyao880.github.io/yaoli/)**
+
+- Teaching Assistant: **[Seong Jin Lee](https://stor.unc.edu/people/graduate-students/)**
+    
+- Class: TTH 8:00AM-9:15AM, Hanes 125
+    
+- Office Hours:
+    - Instructor Office Hours: W 11:00AM-12:00PM, Hanes 334
+    - TA Office Hours: MF 2:00PM-3:00PM, [Zoom](https://unc.zoom.us/j/99440603579)
+
+
+# **Course Material**
+
+| Date | Lecture | Slides | Tutorial|
+|------|-----------------------|-------:|----------:|
+|Aug. 19| Welcome |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1ZLgMuarDhe2nHdk-3QTcPywXgPbZU_Cq/view?usp=sharing">Slides</a>| |
+|Aug. 21| Overview of Machine Learning |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/12ORJB-QKOXnN2vs4HpocRbtzpf8Qk-8f/view?usp=sharing">Slides</a>|<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1ky_ypXVHpql89OSIMu1M8PF2VRSojVrg/view?usp=sharing">Tutorial 1</a> |
+|Aug. 26| Linear Regression and Classification |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1s9dZfMpFWrxEsrEFc-qBK_mZfpoEjbd6/view?usp=sharing">Slides</a>| |
+|Aug. 28| Optimization |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1Xs-PklCA-m-Kp0SG7B9jp4kHut08sWfz/view?usp=sharing">Slides</a> | Quiz 1 |
+|Sep. 02| Neural Networks I |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1Xmi2Fzdghs0c1PO5F_5qq13R9zAdpXLx/view?usp=sharing">Slides</a>| <a href="#" class="protected-link" data-url="https://colab.research.google.com/drive/1SIR65Sr_MqpgDPzr3kwjeROmEe5VMueG?usp=sharing">Tutorial 2</a>|
+|Sep. 04| Neural Networks II|| |
+|Sep. 09| Convolutional Neural Networks I |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1vIlxxrdJw7djkDFHAS-l6evgYA0tHbi-/view?usp=sharing">Slides</a>|Quiz 2 |
+|Sep. 11| Convolutional Neural Networks II |<a href="#" class="protected-link" data-url="https://colab.research.google.com/drive/12OTyDqb3mWqOjYzvzlo_p7KWfBTdA-3x?usp=sharing">Tutorial 3</a>| <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/11MA3wMJabaufBjKOUcHW6wyWtpvMJCkS/view?usp=drive_link">ResNet</a>|
+|Sep. 16| Recurrent Neural Networks I|<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/14v1nySA-YY5y-2V12mV1Ca7PQBrUlio8/view?usp=sharing">Slides</a>| |
+|Sep. 18| Recurrent Neural Networks II ||Quiz 3 |
+|Sep. 23| Project Proposal Discussion || |
+|Sep. 25| Project Proposal Discussion || |
+|Sep. 30| GRU and LSTM |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1hP5_mo8h551nGXoA-Ir9dPNfu15AAlAJ/view?usp=sharing">Slides</a>||
+|Oct. 02| NLP Pre-training |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1e1FPEJ-sHR4oeCRudyteefc29dTgCo8i/view?usp=sharing">Slides</a>| <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/11diJdlCbAuK_YXp2aecI2Dz3LFl6VUwW/view?usp=sharing">Word2Vec</a>|
+|Oct. 07| Well-Being Day || |
+|Oct. 09| Transformer |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1JDEI6HcljB-69KuV8tNfM2b466vgKaO8/view?usp=sharing">Slides</a>| |
+|Oct. 14| Vision Transformer |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1xBW6_WcvUXNAfC4ldvqmiJh4nDX_Rhok/view?usp=sharing">Slides</a>|Quiz 4 |
+|Oct. 16| Fall Break || |
+|Oct. 21| BERT |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/117J-dhEgEUnbXnmOH8ZwCt9OhFwl9RME/view?usp=sharing">Slides</a>| <a href="#" class="protected-link" data-url="https://colab.research.google.com/drive/18p-wQAzJWtI1o6svol8CpRuueffe5S5-?usp=sharing">Tutorial 4</a> |
+|Oct. 23| Generative Models I |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/17T5joRvHyt3l8G2tqOt3hDoXhw9nR8Yo/view?usp=sharing">Slides</a>| |
+|Oct. 28| Generative Models II |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1ZqvEYVt7oC36wXpPHLzk2vmpd36vHLxt/view?usp=sharing">Slides</a>| |
+|Oct. 30| Generative Models III |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1y4uxHIij0rLodlelz72_lFKZmaNnnrqZ/view?usp=sharing">DDPM</a> | Quiz 5|
+|Nov. 04| Generative Models IV ||<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/12vMTnnvOXYxPOrA1Admu-0UV5vubmEP1/view?usp=sharing">CLIP</a> |
+|Nov. 06| Adversarial Learning  |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1LnNZaf4457VsbR4U6W4siU9yRA1dZxj6/view?usp=sharing">Slides</a>| |
+||   |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/16aVT4fdSd4TT5Hj9-vxLO5JbaiQcsuIT/view?usp=sharing">Slides</a>| |
+|Nov. 11| AI Security |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/13R24gMNbG90-SF5uvBJS2PlQ8jgNb6y8/view?usp=sharing">Slides</a>| |
+|Nov. 13| Explainable AI  |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1USbrKjW9u9wy21ZlHE1PKrVygTLUmyPl/view?usp=sharing">Slides</a>| Quiz 6 |
+|Nov. 18| LLM |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/176rxtX8SA5i6qdI58IWQTSlQEHM78K1X/view?usp=sharing">Slides</a>|<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/17DsYZhrGY1wy3ZjwVHl2kIFBq4LOdD-T/view?usp=sharing">Mini GPT4</a>|
+|Nov. 20| Final Presentation || |
+|Nov. 25| Final Presentation || |
+|Nov. 27| Thanksgiving || |
+|Dec. 02| Final Presentation || |
+
+
+# **Homework Tracker**
+
+All homework assignments are to be submitted via **[Canvas](https://edtech.unc.edu/service/canvas/)**. Late homework will receive a grade of **0**.
+
+| Date assigned | Instructions | Due Date (Time) |
+|----------|:--------:|:-------------:|
+| Aug. 28  | [HW1](https://drive.google.com/drive/folders/1eLEDBbeqPZwN5PViA49rw7y80LoPqEww?usp=sharing)([.ipynb](https://colab.research.google.com/drive/1JctgZulBiKP0aft19oNopkSJF9KR84J2?usp=sharing))  |  Sep. 07 (11:59 PM) |
+| Sep. 09  | [HW2](https://drive.google.com/drive/folders/1SG9W7V2i4yhSzWupKapFwV5qm7KeKVef?usp=sharing)([.ipynb](https://colab.research.google.com/drive/1By-jZb55uXTy3djIfvfuVcmxax_-w5aP?usp=sharing)) |  Sep. 21 (11:59 PM) |
+| Sep. 18  | [HW3](https://drive.google.com/drive/folders/10rEevuA6iatidLyKLy9-rggI6PasI0wW?usp=sharing)([.ipynb](https://colab.research.google.com/drive/1G6CpZu7aeAbX8jfLThCsNRajji-YgRsS?usp=sharing))  |  Oct. 12 (11:59 PM) |
+| Oct. 12  | [HW4](https://drive.google.com/drive/folders/1qgJzqdm_TLh6KgKovG_9sxT5qLsJQ-jU?usp=sharing)([.ipynb](https://colab.research.google.com/drive/1b0iHdfirR1RJh39IA_v5QBxScGlvzaSe?usp=sharing)) |  Oct. 26 (11:59 PM) |
+| Oct. 26  | [HW5](https://drive.google.com/drive/folders/1JlAs-MB3Uit8SeNPCsQKJG4Ik-vKZchG?usp=sharing)([.ipynb](https://colab.research.google.com/drive/1WBAdKU2bgBqG24ADglfFOmcLwoXoVS2o?usp=sharing)) |  Nov. 09 (11:59 PM) |
+
+# **Final Project Details**
+
+This course includes a final project in lieu of a final exam. Projects will be completed in groups of **four** and consist of:
+
+- Project Proposal (10%)
+- Project Presentation (30%)
+- Project Paper (50%)
+- Peer Review Score (10%)
+
+## Group List
+
+Please form the final project group before **August 31st**, and sign up using the shared **[spreadsheet](https://docs.google.com/spreadsheets/d/1zvf1n_apfxo_Y3P3dFayzZktetWiwbsmiqaz8alpKCs/edit?usp=sharing)**. Please don't modify the information of other groups.
+
+## Four Parts Including Point Values
+
+I will meet with each group to discuss the final project topic. Project topics can be:
+
+- Solve an interesting or new problem with existing method
+- Develop a new algorithm/model
+- Compare state-of-the-art algorithms on some problems
+- ...
+
+**P1: Project Proposal** *(10 Points):* The project proposal is limited to 2-page (excluding reference) and contains:
+
+- Problem to solve
+- Review of existing studies in this field
+- Your proposed method or Methods you would like to compare
+- Evaluation metric
+- Reference
+
+See latex template at [link](https://drive.google.com/file/d/16uQ-fbVysshhh13xvnpNy5GYPAMcplDK/view?usp=sharing).
+
+**P2: Project Presentation** *(30 Points):* All groups will present their final projects during the last week or two weeks of classes. Every group member is expected to join the presentation. The length of the presentation depends on the number of groups (10–20min) and will be announced later.
+
+
+**P3: Project Paper** *(50 Points):* Each team must submit a written project report. It is recommended to include a discussion of how your research work can be further extended. It is required to use the [NeurIPS Latex style files](https://neurips.cc/Conferences/2022/PaperInformation/StyleFiles) and submit the report in PDF format. The report should be less than 8 pages without references (no minimum requirement).
+
+**P4: Peer Score** *(10 Points):* Ten points of the final project is based on an average score measuring overall contribution as seen by you and the other members of your group. Each group member should score every person in their group on a continuous scale from 0 (Bad) to 10 (Good). Before the due date of the final paper, every member is required to submit the group scoring through the google survey link below. Your name and this information will remain private between me and you. If you fail to submit this group scoring before the deadline, 2 points penalty will be applied and I will give the other members a score of 10.
+
+- [Peer Scoring](https://forms.gle/NpgnLDPZmsPxzksZA)
+
+    
+## Due Dates of Individual Parts
+
+| Part | Description |Method (Location) of Submission| Due Date (Time) |
+|----|-------------|-------------|------------------------:|
+| P1  | Project Proposal | Canvas | Sep. 21 (11:59PM)|
+|   | Proposal Meeting | Hanes 334 | Sep. 23 / Sep. 25 (Lecture Time)|
+| P2  | Presentation Slides |Canvas| Nov. 19 / Nov. 24 / Dec. 01 (11:59PM)|
+|   | Final Presentation|Class| Nov. 20 / Nov. 25 / Dec. 02 (Lecture time)|
+| P3  | Final Report|Canvas|Dec. 05 (11:59PM)|
+| P4  | Peer Scoring|[Google Survey](https://forms.gle/NpgnLDPZmsPxzksZA)|Dec. 05 (11:59PM)|
+
+# **Class Participation**
+
+Check the **[paper list and participation record](https://docs.google.com/spreadsheets/d/1BfKTzDP9nhrAghWPJms5rh-8IZSCvZmxjb4OpjkWTa4/edit?usp=sharing)** for paper presentation opportunities and class participation records.
+
+# **Reading**
+
+- **[Deep learning](https://www.deeplearningbook.org/)**, by Ian Goodfellow, Yoshua Bengio, Aaron Courville. 
+- **[Deep learning theory lecture note](https://mjt.cs.illinois.edu/dlt/)**, by Matus Telgarsky.
+- **[Foundations of machine learning](https://cs.nyu.edu/~mohri/mlbook/)**, by Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar.
+- **[Deep learning architectures -- A mathematical approach](https://drive.google.com/file/d/1MO5XNM0GsilmXsEed8XUPN539H8PeIoE/view?usp=sharing)**, by Ovidiu Calin.
+- **[Convex optimization](https://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)**, by Stephen Boyd, and Lieven Vandenberghe.
+
+This page was last updated on `r Sys.time()` Eastern Time.
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const correctPassword = "hanes334"; // Set your password here
+    const links = document.getElementsByClassName("protected-link");
+
+    for (let i = 0; i < links.length; i++) {
+      links[i].addEventListener("click", function(event) {
+        event.preventDefault(); // Prevent the default action of the link
+        const userPassword = prompt("Enter the password to access this link:");
+        if (userPassword === correctPassword) {
+          window.open(this.getAttribute("data-url"), "_blank"); // Open the link in a new tab
+        } else {
+          alert("Incorrect password. Access denied.");
+        }
+      });
+    }
+  });
+</script>
