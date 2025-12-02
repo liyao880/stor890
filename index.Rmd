@@ -28,117 +28,112 @@ See the **[syllabus](Syllabi/890_Syllabus.pdf)** for details. This topics course
 
 # **Course Material**
 
-| Date | Lecture/Paper | Slides | 
-|--|------------------------------|----:|
-|Jan. 08| Welcome | | 
-|Jan. 13| MLP and CNN | | 
-|Jan. 15| RNN | | 
-|Jan. 20| Transformer | | 
-|Jan. 22| Travel (Class Cancel) | | 
-|Jan. 27| Generative models  | | 
-|Jan. 29| LLM | | 
-|Feb. 03| Poisoning attack| | 
-|Feb. 05| Backdoor attack | | 
-|Feb. 10| Backdoor defense | | 
-|Feb. 12| Federated learning | | 
-|Feb. 17| Project Proposal Discussion || 
-|Feb. 19| Project Proposal Discussion || 
-|Feb. 24| Adversarial attack || 
-|Feb. 26| Adversarial defense || 
-|Mar. 03| Certified robustness | | 
-|Mar. 05| Differential privacy | | 
-|Mar. 10| Membership inference attack || 
-|Mar. 12| Model inversion attack || 
-|Mar. 17| Spring Break || 
-|Mar. 19| Spring Break | | 
-|Mar. 24| Explainable AI | | 
-|Mar. 26| Fairness | | 
-|Mar. 31| Uncertainty | | 
-|Apr. 02| Well-being Day | | 
-|Apr. 07| Jailbreak attack|| 
-|Apr. 09| Safety alignment || 
-|Apr. 14| Backdoor in LLM || 
-|Apr. 16| Hallucination || |
-|Apr. 21| Final Presentation || 
-|Apr. 23| Final Presentation || 
+| Date | Topic | Paper Link | Slides|
+|--|------------------------------|-----|----:|
+|Jan. 08| Welcome | | |
+|Jan. 13| MLP and CNN | | |
+|Jan. 15| RNN | | |
+|Jan. 20| Transformer | | |
+|Jan. 22| Travel (Class Cancel) | | |
+|Jan. 27| Generative models  | | |
+|Jan. 29| LLM | | |
+|Feb. 03| Poisoning attack| | |
+|Feb. 05| Backdoor attack | | |
+|Feb. 10| Backdoor defense | | |
+|Feb. 12| Federated learning | | |
+|Feb. 17| Project Proposal Discussion || |
+|Feb. 19| Project Proposal Discussion || |
+|Feb. 24| Adversarial attack || |
+|Feb. 26| Adversarial defense || |
+|Mar. 03| Certified robustness | | |
+|Mar. 05| Differential privacy | | |
+|Mar. 10| Membership inference attack || |
+|Mar. 12| Model inversion attack || |
+|Mar. 17| Spring Break || |
+|Mar. 19| Spring Break | | |
+|Mar. 24| Explainable AI | | |
+|Mar. 26| Fairness | | |
+|Mar. 31| Uncertainty | | |
+|Apr. 02| Well-being Day | | |
+|Apr. 07| Jailbreak attack|| |
+|Apr. 09| Safety alignment || |
+|Apr. 14| Backdoor in LLM || |
+|Apr. 16| Hallucination || ||
+|Apr. 21| Final Presentation || |
+|Apr. 23| Final Presentation || |
 
 
-# **Homework Tracker**
+# **Class Participation**
 
-All homework assignments are to be submitted via **[Canvas](https://edtech.unc.edu/service/canvas/)**. Late homework will receive a grade of **0**.
+Use the **[participation record]()** to report class participation. 
 
-| Date assigned | Instructions | Due Date (Time) |
-|----------|:--------:|:-------------:|
-| Aug. 28  | [HW1](https://drive.google.com/drive/folders/1eLEDBbeqPZwN5PViA49rw7y80LoPqEww?usp=sharing)([.ipynb](https://colab.research.google.com/drive/1JctgZulBiKP0aft19oNopkSJF9KR84J2?usp=sharing))  |  Sep. 07 (11:59 PM) |
-| Sep. 09  | [HW2](https://drive.google.com/drive/folders/1SG9W7V2i4yhSzWupKapFwV5qm7KeKVef?usp=sharing)([.ipynb](https://colab.research.google.com/drive/1By-jZb55uXTy3djIfvfuVcmxax_-w5aP?usp=sharing)) |  Sep. 21 (11:59 PM) |
-| Sep. 18  | [HW3](https://drive.google.com/drive/folders/10rEevuA6iatidLyKLy9-rggI6PasI0wW?usp=sharing)([.ipynb](https://colab.research.google.com/drive/1G6CpZu7aeAbX8jfLThCsNRajji-YgRsS?usp=sharing))  |  Oct. 12 (11:59 PM) |
-| Oct. 12  | [HW4](https://drive.google.com/drive/folders/1qgJzqdm_TLh6KgKovG_9sxT5qLsJQ-jU?usp=sharing)([.ipynb](https://colab.research.google.com/drive/1b0iHdfirR1RJh39IA_v5QBxScGlvzaSe?usp=sharing)) |  Oct. 26 (11:59 PM) |
-| Oct. 26  | [HW5](https://drive.google.com/drive/folders/1JlAs-MB3Uit8SeNPCsQKJG4Ik-vKZchG?usp=sharing)([.ipynb](https://colab.research.google.com/drive/1WBAdKU2bgBqG24ADglfFOmcLwoXoVS2o?usp=sharing)) |  Nov. 09 (11:59 PM) |
+
+# **Paper Presentation**
+
+Each student will present **one or two research papers** during the semester, depending on enrollment. You can use the **[paper list]()** to sign up for your preferred papers.
+
+- **Before January 21:**  
+  Students may freely sign up for available papers using the shared spreadsheet. Please sign up for **two papers** unless instructed otherwise.
+
+- **After January 21:**  
+  Any papers that remain unassigned will be **randomly allocated** to students by the instructor, or the instructor will present them. These assignments will be final.
+
+Slides must be uploaded **by 11:59pm the night before class** on the day of your presentation. Late submissions will incur penalties.
+
+
 
 # **Final Project Details**
 
-This course includes a final project in lieu of a final exam. Projects will be completed in groups of **four** and consist of:
+This course includes a final project in lieu of a final exam. Projects may be completed individually or in groups of two. Groups of more than two are not permitted. The final project consists of:
 
 - Project Proposal (10%)
-- Project Presentation (30%)
+- Project Presentation (40%)
 - Project Paper (50%)
-- Peer Review Score (10%)
 
-## Group List
 
-Please form the final project group before **August 31st**, and sign up using the shared **[spreadsheet](https://docs.google.com/spreadsheets/d/1zvf1n_apfxo_Y3P3dFayzZktetWiwbsmiqaz8alpKCs/edit?usp=sharing)**. Please don't modify the information of other groups.
+## Three Parts Including Point Values
 
-## Four Parts Including Point Values
+I will meet with each student or group to discuss potential project topics. Suitable topics include, but are not limited to:
 
-I will meet with each group to discuss the final project topic. Project topics can be:
-
-- Solve an interesting or new problem with existing method
-- Develop a new algorithm/model
-- Compare state-of-the-art algorithms on some problems
+- Conducting a careful empirical study comparing state-of-the-art methods;
+- Reproducing an influential research paper and analyzing its limitations;
+- Developing a small methodological or algorithmic extension;
+- A structured survey of a focused sub-area in trustworthy machine learning.
 - ...
-
+    
 **P1: Project Proposal** *(10 Points):* The project proposal is limited to 2-page (excluding reference) and contains:
 
-- Problem to solve
-- Review of existing studies in this field
-- Your proposed method or Methods you would like to compare
-- Evaluation metric
-- Reference
+- The problem you aim to address;
+- A brief review of related work;
+- The method(s) you plan to use or compare;
+- Evaluation metrics and expected outcomes;
+- Reference.
 
 See latex template at [link](https://drive.google.com/file/d/16uQ-fbVysshhh13xvnpNy5GYPAMcplDK/view?usp=sharing).
 
-**P2: Project Presentation** *(30 Points):* All groups will present their final projects during the last week or two weeks of classes. Every group member is expected to join the presentation. The length of the presentation depends on the number of groups (10–20min) and will be announced later.
+
+**P2: Project Presentation** *(40 Points):* Presentations will take place during the final 2 - 3 lectures of the semester. Each student or group will give a short presentation (length announced later) summarizing the problem, approach, results, and conclusions. Attendance is required for all presentations.
 
 
-**P3: Project Paper** *(50 Points):* Each team must submit a written project report. It is recommended to include a discussion of how your research work can be further extended. It is required to use the [NeurIPS Latex style files](https://neurips.cc/Conferences/2022/PaperInformation/StyleFiles) and submit the report in PDF format. The report should be less than 8 pages without references (no minimum requirement).
+**P3: Project Paper** *(50 Points):* Students must submit a written final report in PDF format. The report must use the [NeurIPS Latex style files](https://media.neurips.cc/Conferences/NeurIPS2025/Styles.zip) and should be no more than 8 pages excluding references (there is no minimum length requirement). The report may include a discussion of possible future extensions.
 
-**P4: Peer Score** *(10 Points):* Ten points of the final project is based on an average score measuring overall contribution as seen by you and the other members of your group. Each group member should score every person in their group on a continuous scale from 0 (Bad) to 10 (Good). Before the due date of the final paper, every member is required to submit the group scoring through the google survey link below. Your name and this information will remain private between me and you. If you fail to submit this group scoring before the deadline, 2 points penalty will be applied and I will give the other members a score of 10.
 
-- [Peer Scoring](https://forms.gle/NpgnLDPZmsPxzksZA)
 
     
 ## Due Dates of Individual Parts
 
-| Part | Description |Method (Location) of Submission| Due Date (Time) |
-|----|-------------|-------------|------------------------:|
-| P1  | Project Proposal | Canvas | Sep. 21 (11:59PM)|
-|   | Proposal Meeting | Hanes 334 | Sep. 23 / Sep. 25 (Lecture Time)|
-| P2  | Presentation Slides |Canvas| Nov. 19 / Nov. 24 / Dec. 01 (11:59PM)|
-|   | Final Presentation|Class| Nov. 20 / Nov. 25 / Dec. 02 (Lecture time)|
-| P3  | Final Report|Canvas|Dec. 05 (11:59PM)|
-| P4  | Peer Scoring|[Google Survey](https://forms.gle/NpgnLDPZmsPxzksZA)|Dec. 05 (11:59PM)|
+| Part | Description |Location| Due Date (Time) |
+|----|-------------|---------------------|---------------:|
+| P1  | Project Proposal | Canvas | Feb. 15 (11:59PM)|
+|   | Proposal Meeting | Hanes 334 | Feb. 17 / Feb. 19 (Lecture Time)|
+| P2  | Presentation Slides |Canvas| Apr. 20 / Apr. 22 (11:59PM)|
+|   | Final Presentation|Class| Apr. 21 / Apr. 23 (Lecture time)|
+| P3  | Final Report|Canvas|Apr. 30 (11:59PM)|
 
-# **Class Participation**
 
-Check the **[paper list and participation record](https://docs.google.com/spreadsheets/d/1BfKTzDP9nhrAghWPJms5rh-8IZSCvZmxjb4OpjkWTa4/edit?usp=sharing)** for paper presentation opportunities and class participation records.
 
-# **Reading**
 
-- **[Deep learning](https://www.deeplearningbook.org/)**, by Ian Goodfellow, Yoshua Bengio, Aaron Courville. 
-- **[Deep learning theory lecture note](https://mjt.cs.illinois.edu/dlt/)**, by Matus Telgarsky.
-- **[Foundations of machine learning](https://cs.nyu.edu/~mohri/mlbook/)**, by Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar.
-- **[Deep learning architectures -- A mathematical approach](https://drive.google.com/file/d/1MO5XNM0GsilmXsEed8XUPN539H8PeIoE/view?usp=sharing)**, by Ovidiu Calin.
-- **[Convex optimization](https://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)**, by Stephen Boyd, and Lieven Vandenberghe.
+
 
 This page was last updated on `r Sys.time()` Eastern Time.
 
