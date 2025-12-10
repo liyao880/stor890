@@ -37,28 +37,28 @@ See the **[syllabus](Syllabi/890_Syllabus.pdf)** for details. This topics course
 |Jan. 22| Travel (Class Cancel) | | |
 |Jan. 27| Generative models  | | |
 |Jan. 29| LLM | | |
-|Feb. 03| Poisoning attack| | |
-|Feb. 05| Backdoor attack | | |
-|Feb. 10| Backdoor defense | | |
-|Feb. 12| Federated learning | | |
+|Feb. 03| Backdoor attack| | |
+|Feb. 05| Backdoor defense | | |
+|Feb. 10| Federated learning | | |
+|Feb. 12| Adversarial attack | | |
 |Feb. 17| Project Proposal Discussion || |
 |Feb. 19| Project Proposal Discussion || |
-|Feb. 24| Adversarial attack || |
-|Feb. 26| Adversarial defense || |
-|Mar. 03| Certified robustness | | |
-|Mar. 05| Differential privacy | | |
-|Mar. 10| Membership inference attack || |
-|Mar. 12| Model inversion attack || |
+|Feb. 24| Adversarial defense || |
+|Feb. 26| Certified robustness || |
+|Mar. 03| Privacy attacks | | |
+|Mar. 05| Explainable AI | | |
+|Mar. 10| Fairness  || |
+|Mar. 12| Watermark LLM || |
 |Mar. 17| Spring Break || |
 |Mar. 19| Spring Break | | |
-|Mar. 24| Explainable AI | | |
-|Mar. 26| Fairness | | |
-|Mar. 31| Uncertainty | | |
+|Mar. 24| Jailbreak attack | | |
+|Mar. 26| Jailbreak defense | | |
+|Mar. 31| Backdoor in LLM | | |
 |Apr. 02| Well-being Day | | |
-|Apr. 07| Jailbreak attack|| |
-|Apr. 09| Safety alignment || |
-|Apr. 14| Backdoor in LLM || |
-|Apr. 16| Hallucination || ||
+|Apr. 07| Backdoor defense in LLM|| |
+|Apr. 09| Hallucination || |
+|Apr. 14| Safety alignment || |
+|Apr. 16| Final Presentation || ||
 |Apr. 21| Final Presentation || |
 |Apr. 23| Final Presentation || |
 
