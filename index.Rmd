@@ -65,17 +65,17 @@ See the **[syllabus](Syllabi/890_Syllabus.pdf)** for details. This topics course
 
 # **Class Participation**
 
-Use the **[participation record]()** to report class participation. 
+Use the **[participation record](https://docs.google.com/spreadsheets/d/17Y-TwH-TYV16H02UKJ8Y0oajadhFZ-jTOfCyb0f9nQA/edit?usp=sharing)** to report class participation. 
 
 
 # **Paper Presentation**
 
-Each student will present **one or two research papers** during the semester, depending on enrollment. You can use the **[paper list]()** to sign up for your preferred papers.
+Each student will present **one or two research papers** during the semester, depending on enrollment. You can use the **[paper list](https://docs.google.com/spreadsheets/d/1cVQau07hlNPvOZCd08GkHqdNLAE9le8EKT9fK0gYwIU/edit?usp=sharing)** to sign up for your preferred papers.
 
-- **Before January 21:**  
+- **Before January 18:**  
   Students may freely sign up for available papers using the shared spreadsheet. Please sign up for **two papers** unless instructed otherwise.
 
-- **After January 21:**  
+- **After January 18:**  
   Any papers that remain unassigned will be **randomly allocated** to students by the instructor, or the instructor will present them. These assignments will be final.
 
 Slides must be uploaded **by 11:59pm the night before class** on the day of your presentation. Late submissions will incur penalties.
