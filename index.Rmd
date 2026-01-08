@@ -32,7 +32,7 @@ See the **[syllabus](Syllabi/890_Syllabus.pdf)** for details. This topics course
 |:-----:|:------------------|:--------:|:-------:|
 |Jan. 08| Logistics and Overview | | [S1](https://drive.google.com/file/d/1qkf-3g5ZQOv_aBEeEKMQncWlBQ4ilwY7/view?usp=sharing) [S2](https://drive.google.com/file/d/1FBtdqSABPwhnW8sXwCVXbe-lmYKvdD5J/view?usp=sharing)|
 |Jan. 13| MLP and CNN | | <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1EAZo74e5mKA8tqSPX-c0gQfckUqGuJdK/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/15Od7Kzat6ICSj-DPSP-G_8Q0z3dZubmV/view?usp=sharing">S2</a>|
-|Jan. 15| RNN | | |
+|Jan. 15| RNN | | <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1A0ZFIdQ07nfSD0mfNs8FQlgzlvIJjWZe/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/10uQj5O9IXZ9bht2OQZTmgP1yMYdpLYlr/view?usp=sharing">S2</a>|
 |Jan. 20| Transformer | | |
 |Jan. 22| Travel (Class Cancel) | | |
 |Jan. 27| Generative models  | | |
