@@ -30,8 +30,8 @@ See the **[syllabus](Syllabi/890_Syllabus.pdf)** for details. This topics course
 
 | Date | Topic | Paper Link| Slides|
 |:-----:|:------------------|:--------:|:------:|
-|Jan. 08| Logistics | | <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1qkf-3g5ZQOv_aBEeEKMQncWlBQ4ilwY7/view?usp=sharing">Slides</a>|
-|| Topic Overview | |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1FBtdqSABPwhnW8sXwCVXbe-lmYKvdD5J/view?usp=sharing">Slides</a> |
+|Jan. 08| Logistics | | [Slides](https://drive.google.com/file/d/1qkf-3g5ZQOv_aBEeEKMQncWlBQ4ilwY7/view?usp=sharing)|
+|| Topic Overview | |[Slides](https://drive.google.com/file/d/1FBtdqSABPwhnW8sXwCVXbe-lmYKvdD5J/view?usp=sharing)|
 |Jan. 13| MLP and CNN | | |
 |Jan. 15| RNN | | |
 |Jan. 20| Transformer | | |
