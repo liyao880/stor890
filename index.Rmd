@@ -44,21 +44,21 @@ See the **[syllabus](Syllabi/890_Syllabus.pdf)** for details. This topics course
 |Feb. 17| Project Proposal Discussion || |
 |Feb. 19| Project Proposal Discussion || |
 |Feb. 24| Adversarial defense |[P1](https://arxiv.org/pdf/1706.06083.pdf)   [P2](https://arxiv.org/pdf/2001.03994.pdf)| |
-|Feb. 26| Certified robustness |[P1](https://arxiv.org/pdf/1711.00851.pdf)   [P2](https://arxiv.org/pdf/1811.00866.pdf)| |
-|Mar. 03| Privacy attacks | [P1](https://arxiv.org/abs/1610.05820.pdf)   [P2](https://openaccess.thecvf.com/content/CVPR2022/papers/Kahla_Label-Only_Model_Inversion_Attacks_via_Boundary_Repulsion_CVPR_2022_paper.pdf)| |
-|Mar. 05| Explainable AI |[P1](https://arxiv.org/abs/1610.02391.pdf)   [P2](https://proceedings.neurips.cc/paper_files/paper/2024/file/48dfc849640344e2d58df0b5bb78c33b-Paper-Conference.pdf) | |
-|Mar. 10| Fairness  |[P1](https://science.sciencemag.org/content/356/6334/183)   [P2](https://arxiv.org/pdf/2410.19803)| |
-|Mar. 12| Watermark LLM |[P1](https://arxiv.org/pdf/2301.10226)   [P2](https://arxiv.org/pdf/2510.03944)| |
+|Feb. 26| Privacy attacks | [P1](https://arxiv.org/abs/1610.05820.pdf)   [P2](https://openaccess.thecvf.com/content/CVPR2022/papers/Kahla_Label-Only_Model_Inversion_Attacks_via_Boundary_Repulsion_CVPR_2022_paper.pdf)| |
+|Mar. 03| Explainable AI |[P1](https://arxiv.org/abs/1610.02391.pdf)   [P2](https://proceedings.neurips.cc/paper_files/paper/2024/file/48dfc849640344e2d58df0b5bb78c33b-Paper-Conference.pdf) | |
+|Mar. 05| Fairness  |[P1](https://science.sciencemag.org/content/356/6334/183)   [P2](https://arxiv.org/pdf/2410.19803)| |
+|Mar. 10| Watermark LLM |[P1](https://arxiv.org/pdf/2301.10226)   [P2](https://arxiv.org/pdf/2510.03944)| |
+|Mar. 12| Jailbreak attack | [P1](https://arxiv.org/pdf/2307.15043)   [P2](https://arxiv.org/pdf/2310.03693)| |
 |Mar. 17| Spring Break || |
 |Mar. 19| Spring Break | | |
-|Mar. 24| Jailbreak attack | [P1](https://arxiv.org/pdf/2307.15043)   [P2](https://arxiv.org/pdf/2310.03693)| |
-|Mar. 26| Jailbreak defense | [P1](https://aclanthology.org/2024.acl-long.568.pdf)   [P2](https://arxiv.org/pdf/2402.08983)| |
-|Mar. 31| Backdoor in LLM | [P1](https://arxiv.org/pdf/2401.05566)   [P2](https://arxiv.org/pdf/2311.09433)| |
+|Mar. 24| Midpoint Project Review | | |
+|Mar. 26| Midpoint Project Review | | |
+|Mar. 31| Jailbreak defense | [P1](https://aclanthology.org/2024.acl-long.568.pdf)   [P2](https://arxiv.org/pdf/2402.08983)| |
 |Apr. 02| Well-being Day | | |
-|Apr. 07| Backdoor defense in LLM|[P1](https://arxiv.org/pdf/2306.05685)   [P2](https://arxiv.org/pdf/2405.07667)| |
-|Apr. 09| Hallucination |[P1](https://www.nature.com/articles/s41586-024-07421-0)   [P2](https://iclr.cc/virtual/2025/poster/29377)| |
-|Apr. 14| Safety alignment |[P1](https://icml.cc/virtual/2025/poster/44803)   [P2](https://iclr.cc/virtual/2025/poster/30893)| |
-|Apr. 16| Final Presentation || |
+|Apr. 07| Backdoor in LLM | [P1](https://arxiv.org/pdf/2401.05566)   [P2](https://arxiv.org/pdf/2311.09433)| |
+|Apr. 09| Backdoor defense in LLM|[P1](https://arxiv.org/pdf/2306.05685)   [P2](https://arxiv.org/pdf/2405.07667)| |
+|Apr. 14| Hallucination |[P1](https://www.nature.com/articles/s41586-024-07421-0)   [P2](https://iclr.cc/virtual/2025/poster/29377)| |
+|Apr. 16| Safety alignment |[P1](https://icml.cc/virtual/2025/poster/44803)   [P2](https://iclr.cc/virtual/2025/poster/30893)| |
 |Apr. 21| Final Presentation || |
 |Apr. 23| Final Presentation || |
 
