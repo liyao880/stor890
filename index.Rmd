@@ -33,10 +33,10 @@ See the **[syllabus](Syllabi/890_Syllabus.pdf)** for details. This topics course
 |Jan. 08| Logistics and Overview | | [S1](https://drive.google.com/file/d/1qkf-3g5ZQOv_aBEeEKMQncWlBQ4ilwY7/view?usp=sharing) [S2](https://drive.google.com/file/d/1FBtdqSABPwhnW8sXwCVXbe-lmYKvdD5J/view?usp=sharing)|
 |Jan. 13| MLP and CNN | | <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1EAZo74e5mKA8tqSPX-c0gQfckUqGuJdK/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/15Od7Kzat6ICSj-DPSP-G_8Q0z3dZubmV/view?usp=sharing">S2</a>|
 |Jan. 15| RNN | | <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1A0ZFIdQ07nfSD0mfNs8FQlgzlvIJjWZe/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/10uQj5O9IXZ9bht2OQZTmgP1yMYdpLYlr/view?usp=sharing">S2</a>|
-|Jan. 20| Transformer | | |
+|Jan. 20| Transformer | | <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1_T2Sw_Hxl_xq6QlyDd5vvpwPVyJnciNb/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1igFlz6Wr3xVdcJz9Id5FEPsvpjd0nig_/view?usp=sharing">S2</a>|
 |Jan. 22| Travel (Class Cancel) | | |
-|Jan. 27| Generative models  | | |
-|Jan. 29| LLM | | |
+|Jan. 27| Generative models  |[P1](https://arxiv.org/abs/2006.11239)     [P2](https://openreview.net/pdf/910c5efa5739a5d2bef83d432da87d3096712ebe.pdf) | <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/12d60XHH0loXfSvH-XGOmtlrdDsdHdFTu/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1eKKlloLjuW3bpZ70FFHYfdRGra79tgNw/view?usp=sharing">S2</a>|
+|Jan. 29| LLM | | <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1EEpG4bzEUX98iJ92d5bbo85poGZbupXv/view?usp=sharing">S1</a>|
 |Feb. 03| Backdoor attack| [P1](https://arxiv.org/abs/1708.06733)     [P2](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Invisible_Backdoor_Attack_With_Sample-Specific_Triggers_ICCV_2021_paper.pdf) | |
 |Feb. 05| Backdoor defense |[P1](https://arxiv.org/abs/2310.01875)   [P2](https://ieeexplore.ieee.org/document/11121441) | |
 |Feb. 10| Federated learning |[P1](https://icml.cc/virtual/2022/spotlight/18208)   [P2](https://openreview.net/pdf?id=r9eNUDe2im) | |
