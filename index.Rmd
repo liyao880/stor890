@@ -39,7 +39,7 @@ See the **[syllabus](Syllabi/890_Syllabus.pdf)** for details. This topics course
 |Jan. 29| LLM | | <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1EEpG4bzEUX98iJ92d5bbo85poGZbupXv/view?usp=sharing">S1</a>|
 |Feb. 03| Class Cancel (Weather) |  | |
 |Feb. 05| Backdoor attack| [P1](https://arxiv.org/abs/1708.06733)     [P2](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Invisible_Backdoor_Attack_With_Sample-Specific_Triggers_ICCV_2021_paper.pdf) |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1C6a5laulnaZ9aSkieP8GjHsiYl470GTc/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1HtGfw2jU2nQvDavt7s58lqQf0vnM1cXS/view?usp=sharing">S2</a> |
-|Feb. 10| Backdoor defense |[P1](https://arxiv.org/abs/2310.01875)   [P2](https://ieeexplore.ieee.org/document/11121441) | |
+|Feb. 10| Backdoor defense |[P1](https://arxiv.org/abs/2310.01875)   [P2](https://ieeexplore.ieee.org/document/11121441) |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1zG8YkcETgpI063x1exv671p4LSw3quhS/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/195vg-6vvZv71-2IQO-3MC_z8yiLMAKjX/view?usp=sharing">S2</a> |
 |Feb. 12| Federated learning |[P1](https://icml.cc/virtual/2022/spotlight/18208)   [P2](https://openreview.net/pdf?id=r9eNUDe2im) | |
 |Feb. 17| Project Proposal Discussion || |
 |Feb. 19| Project Proposal Discussion || |
