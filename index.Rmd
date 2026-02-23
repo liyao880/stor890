@@ -40,10 +40,10 @@ See the **[syllabus](Syllabi/890_Syllabus.pdf)** for details. This topics course
 |Feb. 03| Class Cancel (Weather) |  | |
 |Feb. 05| Backdoor attack| [P1](https://arxiv.org/abs/1708.06733)     [P2](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Invisible_Backdoor_Attack_With_Sample-Specific_Triggers_ICCV_2021_paper.pdf) |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1C6a5laulnaZ9aSkieP8GjHsiYl470GTc/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1HtGfw2jU2nQvDavt7s58lqQf0vnM1cXS/view?usp=sharing">S2</a> |
 |Feb. 10| Backdoor defense |[P1](https://arxiv.org/abs/2310.01875)   [P2](https://ieeexplore.ieee.org/document/11121441) |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1zG8YkcETgpI063x1exv671p4LSw3quhS/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/195vg-6vvZv71-2IQO-3MC_z8yiLMAKjX/view?usp=sharing">S2</a> |
-|Feb. 12| Federated learning |[P1](https://icml.cc/virtual/2022/spotlight/18208)   [P2](https://openreview.net/pdf?id=r9eNUDe2im) | |
+|Feb. 12| Federated learning |[P1](https://icml.cc/virtual/2022/spotlight/18208)   [P2](https://openreview.net/pdf?id=r9eNUDe2im) | <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1jEM9q3l3OcvqYJwg4yluTS0yFWwCXA0o/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1SkToNEuTA-VVAliJAhnWK0tq6m7yMpZM/view?usp=sharing">S2</a>||
 |Feb. 17| Project Proposal Discussion || |
 |Feb. 19| Project Proposal Discussion || |
-|Feb. 24| Adversarial attack |[P1](https://arxiv.org/abs/1608.04644)   [P2](https://openreview.net/pdf?id=SyZI0GWCZ) | |
+|Feb. 24| Adversarial attack |[P1](https://arxiv.org/abs/1608.04644)   [P2](https://arxiv.org/abs/1712.04248) | |
 |Feb. 26| Adversarial defense |[P1](https://arxiv.org/pdf/1706.06083.pdf)   [P2](https://arxiv.org/pdf/2001.03994.pdf)| |
 |Mar. 03| Privacy attacks | [P1](https://arxiv.org/abs/1610.05820.pdf)   [P2](https://openaccess.thecvf.com/content/CVPR2022/papers/Kahla_Label-Only_Model_Inversion_Attacks_via_Boundary_Repulsion_CVPR_2022_paper.pdf)| |
 |Mar. 05| Explainable AI |[P1](https://arxiv.org/abs/1610.02391.pdf)   [P2](https://proceedings.neurips.cc/paper_files/paper/2024/file/48dfc849640344e2d58df0b5bb78c33b-Paper-Conference.pdf) | |
