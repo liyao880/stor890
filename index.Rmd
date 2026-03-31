@@ -53,7 +53,7 @@ See the **[syllabus](Syllabi/890_Syllabus.pdf)** for details. This topics course
 |Mar. 19| Spring Break | | |
 |Mar. 24| Midpoint Project Review | | |
 |Mar. 26| Midpoint Project Review | | |
-|Mar. 31| Jailbreak attack | [P1](https://arxiv.org/pdf/2307.15043)   [P2](https://arxiv.org/pdf/2310.03693)| |
+|Mar. 31| Jailbreak attack | [P1](https://arxiv.org/pdf/2307.15043)   [P2](https://arxiv.org/pdf/2310.03693)|<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1uxrNFesHzOACvR7GWEi_MW7lMvMH5deZ/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1x_c_wFAK-9ycL_mPWLyt6ilFdXXuEr2N/view?usp=sharing">S2</a> |
 |Apr. 02| Well-being Day | | |
 |Apr. 07| Jailbreak defense | [P1](https://aclanthology.org/2024.acl-long.568.pdf)   [P2](https://arxiv.org/pdf/2402.08983)| |
 |Apr. 09| Backdoor in LLM | [P1](https://arxiv.org/pdf/2401.05566)   [P2](https://arxiv.org/pdf/2311.09433)| |
