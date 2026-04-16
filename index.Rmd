@@ -58,7 +58,7 @@ See the **[syllabus](Syllabi/890_Syllabus.pdf)** for details. This topics course
 |Apr. 07| Jailbreak defense | [P1](https://aclanthology.org/2024.acl-long.568.pdf)   [P2](https://arxiv.org/pdf/2402.08983)|<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1DtSPUeJOzd5bk9WAWkvnAMD5FwEgu2q_/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1c1Akp0dw-af2Ag5kmo0yj_ezXe4EABUZ/view?usp=sharing">S2</a> |
 |Apr. 09| Backdoor in LLM | [P1](https://arxiv.org/pdf/2401.05566)   [P2](https://arxiv.org/pdf/2311.09433)|<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1kNQv4EoZgm3pN7GSFgRs9sDJMdv6hGg9/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1j23zdcZYKD4Pcz4mDbGEKQ-Ux95QtTXz/view?usp=sharing">S2</a> |
 |Apr. 14| Backdoor defense in LLM|[P1](https://arxiv.org/pdf/2306.05685)   [P2](https://arxiv.org/pdf/2405.07667)|<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1bHcVCVyeA8GV45W24pHH7e9HzZq1xOzp/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1aXC809NnBIPNMy7G_WsDBqVtc7PAFqsv/view?usp=sharing">S2</a> |
-|Apr. 16| Hallucination |[P1](https://www.nature.com/articles/s41586-024-07421-0)   [P2](https://iclr.cc/virtual/2025/poster/29377)| |
+|Apr. 16| Hallucination |[P1](https://www.nature.com/articles/s41586-024-07421-0)   [P2](https://iclr.cc/virtual/2025/poster/29377)|<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1BbMniAUFqgwSkwqearhN3f8Nqs8m1_vT/view?usp=sharing">S1</a>  |
 |Apr. 21| Final Presentation || |
 |Apr. 23| Final Presentation || |
 
