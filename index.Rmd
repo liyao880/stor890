@@ -1,5 +1,5 @@
 ---
-title: '**STOR 890: Trustworthy Machine Learning**'
+title: '**STOR 891: AI Security**'
 geometry: margin=2
 output:
   prettydoc::html_pretty:
@@ -16,66 +16,66 @@ output:
 
 # **About the Course**
 
-See the **[syllabus](Syllabi/890_Syllabus.pdf)** for details. This topics course is designed for graduate students who are interested in the emerging area of AI security and trustworthy machine learning. Modern machine learning systems are increasingly deployed in high-stakes applications, making it essential to understand their vulnerabilities, limitations, and the principles needed to ensure reliability. The goal of this course is to help students develop a solid conceptual and practical foundation in the security and trustworthiness aspects of machine learning by studying core threat models, analyzing state-of-the-art research papers, and working on research-oriented projects. 
+See the **[syllabus](Syllabi/891_Syllabus.pdf)** for details. This topics course is designed for graduate students who are interested in the emerging area of AI security and trustworthy machine learning. Modern machine learning systems are increasingly deployed in high-stakes applications, making it essential to understand their vulnerabilities, limitations, and the principles needed to ensure reliability. The goal of this course is to help students develop a solid conceptual and practical foundation in the security and trustworthiness aspects of machine learning by studying core threat models, analyzing state-of-the-art research papers, and working on research-oriented projects. 
 
 
 - Instructor: **[Yao Li](https://liyao880.github.io/yaoli/)**
 
-- Class: TTH 8:00AM-9:15AM, Hanes 125
+- Class: TTH 2:00PM-3:15PM, Hanes 107
 
-- Office Hours: TH 9:30AM-10:30AM, Hanes 334
+- Office Hours: W 10:00AM-11:00AM, Hanes 334
 
 
 # **Course Material**
 
 | Date | Topic | Paper Link| Slides|
 |:-----:|:------------------|:--------:|:-------:|
-|Jan. 08| Logistics and Overview | | [S1](https://drive.google.com/file/d/1qkf-3g5ZQOv_aBEeEKMQncWlBQ4ilwY7/view?usp=sharing) [S2](https://drive.google.com/file/d/1FBtdqSABPwhnW8sXwCVXbe-lmYKvdD5J/view?usp=sharing)|
-|Jan. 13| MLP and CNN | | <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1EAZo74e5mKA8tqSPX-c0gQfckUqGuJdK/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/15Od7Kzat6ICSj-DPSP-G_8Q0z3dZubmV/view?usp=sharing">S2</a>|
-|Jan. 15| RNN | | <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1A0ZFIdQ07nfSD0mfNs8FQlgzlvIJjWZe/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/10uQj5O9IXZ9bht2OQZTmgP1yMYdpLYlr/view?usp=sharing">S2</a>|
-|Jan. 20| Transformer | | <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1_T2Sw_Hxl_xq6QlyDd5vvpwPVyJnciNb/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1igFlz6Wr3xVdcJz9Id5FEPsvpjd0nig_/view?usp=sharing">S2</a>|
-|Jan. 22| Travel (Class Cancel) | | |
-|Jan. 27| Generative models  |[P1](https://arxiv.org/abs/2006.11239)     [P2](https://openreview.net/pdf/910c5efa5739a5d2bef83d432da87d3096712ebe.pdf) | <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/12d60XHH0loXfSvH-XGOmtlrdDsdHdFTu/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1eKKlloLjuW3bpZ70FFHYfdRGra79tgNw/view?usp=sharing">S2</a>|
-|Jan. 29| LLM | | <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1EEpG4bzEUX98iJ92d5bbo85poGZbupXv/view?usp=sharing">S1</a>|
-|Feb. 03| Class Cancel (Weather) |  | |
-|Feb. 05| Backdoor attack| [P1](https://arxiv.org/abs/1708.06733)     [P2](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Invisible_Backdoor_Attack_With_Sample-Specific_Triggers_ICCV_2021_paper.pdf) |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1C6a5laulnaZ9aSkieP8GjHsiYl470GTc/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1HtGfw2jU2nQvDavt7s58lqQf0vnM1cXS/view?usp=sharing">S2</a> |
-|Feb. 10| Backdoor defense |[P1](https://arxiv.org/abs/2310.01875)   [P2](https://ieeexplore.ieee.org/document/11121441) |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1zG8YkcETgpI063x1exv671p4LSw3quhS/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/195vg-6vvZv71-2IQO-3MC_z8yiLMAKjX/view?usp=sharing">S2</a> |
-|Feb. 12| Federated learning |[P1](https://icml.cc/virtual/2022/spotlight/18208)   [P2](https://openreview.net/pdf?id=r9eNUDe2im) | <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1jEM9q3l3OcvqYJwg4yluTS0yFWwCXA0o/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1SkToNEuTA-VVAliJAhnWK0tq6m7yMpZM/view?usp=sharing">S2</a>|
-|Feb. 17| Project Proposal Discussion || |
-|Feb. 19| Project Proposal Discussion || |
-|Feb. 24| Adversarial attack |[P1](https://arxiv.org/abs/1608.04644)   [P2](https://arxiv.org/abs/1712.04248) [P3](https://arxiv.org/abs/1610.08401) | <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1Tz_1KMHOvZhGQfYQ5umb2oGTZgeYp7oq/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1I7VECU6dpCQJB2lDE1NBguMzIK-IpK5L/view?usp=sharing">S2</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/10B6-YeECEPpEPYn5AIiK5dU4ZGAPy2zn/view?usp=sharing">S3</a>|
-|Feb. 26| Adversarial defense |[P1](https://arxiv.org/pdf/1706.06083.pdf)   [P2](https://arxiv.org/pdf/2001.03994.pdf)|<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1oRbhCOa9IojHAjy5dboeWX6PLskL2sDh/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/18aoqVNprwkM6OBoYRyvC8Eu7Qnwa6A1D/view?usp=sharing">S2</a> |
-|Mar. 03| Privacy attacks | [P1](https://arxiv.org/abs/1610.05820.pdf)   [P2](https://openaccess.thecvf.com/content/CVPR2022/papers/Kahla_Label-Only_Model_Inversion_Attacks_via_Boundary_Repulsion_CVPR_2022_paper.pdf) [P3](https://rist.tech.cornell.edu/papers/mi-ccs.pdf)| <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1g-FnrUb-6uPA_ont7rN0OZETS9e49yfz/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1BJrnSGVrjoLuG72EmQImlt-d5Melr7b1/view?usp=sharing">S2</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1_h0OD18QW_LuXR910eoDhAEg2vfvQcLy/view?usp=sharing">S3</a>|
-|Mar. 05| Explainable AI |[P1](https://arxiv.org/abs/1610.02391.pdf)   [P2](https://proceedings.neurips.cc/paper_files/paper/2024/file/48dfc849640344e2d58df0b5bb78c33b-Paper-Conference.pdf) | <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1noYlHtu_E4Q0HIfVT6PPKxHs2OEtJPUp/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1LljTPbtIABwWMeWLsZlxWjSGxJDLwYcO/view?usp=sharing">S2</a>||
-|Mar. 10| Fairness  |[P1](https://science.sciencemag.org/content/356/6334/183)   [P2](https://arxiv.org/pdf/2410.19803)|<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1Bh5kArdwLlI_dwQBP5ICUjvCMoLndlYk/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1xOHuu4pr5x7oZ16R1FMIhsxZmoZNsxg1/view?usp=sharing">S2</a> |
-|Mar. 12| Watermark LLM |[P1](https://arxiv.org/pdf/2301.10226)   [P2](https://arxiv.org/pdf/2510.03944)|<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1-e_2e_90OPmZxgZi0cBLC4xU3Ksjk3sp/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/16Yqv7C1y4VboBaPXsfOEjDkLz42hVlRv/view?usp=sharing">S2</a> |
-|Mar. 17| Spring Break || |
-|Mar. 19| Spring Break | | |
-|Mar. 24| Midpoint Project Review | | |
-|Mar. 26| Midpoint Project Review | | |
-|Mar. 31| Jailbreak attack | [P1](https://arxiv.org/pdf/2307.15043)   [P2](https://arxiv.org/pdf/2310.03693)|<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1uxrNFesHzOACvR7GWEi_MW7lMvMH5deZ/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1x_c_wFAK-9ycL_mPWLyt6ilFdXXuEr2N/view?usp=sharing">S2</a> |
-|Apr. 02| Well-being Day | | |
-|Apr. 07| Jailbreak defense | [P1](https://aclanthology.org/2024.acl-long.568.pdf)   [P2](https://arxiv.org/pdf/2402.08983)|<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1DtSPUeJOzd5bk9WAWkvnAMD5FwEgu2q_/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1c1Akp0dw-af2Ag5kmo0yj_ezXe4EABUZ/view?usp=sharing">S2</a> |
-|Apr. 09| Backdoor in LLM | [P1](https://arxiv.org/pdf/2401.05566)   [P2](https://arxiv.org/pdf/2311.09433)|<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1kNQv4EoZgm3pN7GSFgRs9sDJMdv6hGg9/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1j23zdcZYKD4Pcz4mDbGEKQ-Ux95QtTXz/view?usp=sharing">S2</a> |
-|Apr. 14| Backdoor defense in LLM|[P1](https://arxiv.org/pdf/2306.05685)   [P2](https://arxiv.org/pdf/2405.07667)|<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1bHcVCVyeA8GV45W24pHH7e9HzZq1xOzp/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1aXC809NnBIPNMy7G_WsDBqVtc7PAFqsv/view?usp=sharing">S2</a> |
-|Apr. 16| Hallucination |[P1](https://www.nature.com/articles/s41586-024-07421-0)   [P2](https://iclr.cc/virtual/2025/poster/29377)|<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1BbMniAUFqgwSkwqearhN3f8Nqs8m1_vT/view?usp=sharing">S1</a>  |
-|Apr. 21| Final Presentation || |
-|Apr. 23| Final Presentation || |
+|Aug. 18| Logistics and Overview | | [S1](https://drive.google.com/file/d/1qkf-3g5ZQOv_aBEeEKMQncWlBQ4ilwY7/view?usp=sharing) [S2](https://drive.google.com/file/d/1FBtdqSABPwhnW8sXwCVXbe-lmYKvdD5J/view?usp=sharing)|
+|Aug. 20|  MLP and CNN | | <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1EAZo74e5mKA8tqSPX-c0gQfckUqGuJdK/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/15Od7Kzat6ICSj-DPSP-G_8Q0z3dZubmV/view?usp=sharing">S2</a>|
+|Aug. 25| RNN | | <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1A0ZFIdQ07nfSD0mfNs8FQlgzlvIJjWZe/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/10uQj5O9IXZ9bht2OQZTmgP1yMYdpLYlr/view?usp=sharing">S2</a>|
+|Aug. 27| Transformer | | <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1_T2Sw_Hxl_xq6QlyDd5vvpwPVyJnciNb/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1igFlz6Wr3xVdcJz9Id5FEPsvpjd0nig_/view?usp=sharing">S2</a>|
+|Sep. 01| Generative models  |[P1](https://arxiv.org/abs/2006.11239)     [P2](https://openreview.net/pdf/910c5efa5739a5d2bef83d432da87d3096712ebe.pdf) | <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/12d60XHH0loXfSvH-XGOmtlrdDsdHdFTu/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1eKKlloLjuW3bpZ70FFHYfdRGra79tgNw/view?usp=sharing">S2</a>|
+|Sep. 03| LLM | | <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1EEpG4bzEUX98iJ92d5bbo85poGZbupXv/view?usp=sharing">S1</a>|
+|Sep. 08| Backdoor attack | | |
+|Sep. 10| Backdoor defense|  | |
+|Sep. 15| Federated learning|  | |
+|Sep. 17| Adversarial attack | | |
+|Sep. 22| Project Proposal Discussion || |
+|Sep. 24| Project Proposal Discussion || |
+|Sep. 29| Adversarial defense || |
+|Oct. 01| Privacy attacks || |
+|Oct. 06| Well-Being Day || |
+|Oct. 08| Explainable AI || |
+|Oct. 13| Fairness || |
+|Oct. 15| Fall Break || |
+|Oct. 20| Midpoint Project Review || |
+|Oct. 22| Midpoint Project Review || |
+|Oct. 27| Watermark LLM | | |
+|Oct. 29| AI Content Detection | | |
+|Nov. 03| Jailbreak attack | | |
+|Nov. 05| Jailbreak defense || |
+|Nov. 10| Backdoor in LLM | | |
+|Nov. 12| Backdoor defense in LLM || |
+|Nov. 17| Poisoned RAG || |
+|Nov. 19| Hallucination || |
+|Nov. 24| Final Presentation || |
+|Nov. 26| Thanksgiving || |
+|Dec. 01| Final Presentation || |
 
 
 # **Class Participation**
 
-Use the **[participation record](https://docs.google.com/spreadsheets/d/17Y-TwH-TYV16H02UKJ8Y0oajadhFZ-jTOfCyb0f9nQA/edit?usp=sharing)** to report class participation. 
+Use the **[participation record]()** to report class participation. 
 
 
 # **Paper Presentation**
 
-Each student will present **one or two research papers** during the semester, depending on enrollment. You can use the **[paper list](https://docs.google.com/spreadsheets/d/1cVQau07hlNPvOZCd08GkHqdNLAE9le8EKT9fK0gYwIU/edit?usp=sharing)** to sign up for your preferred papers.
+Each student will present **one or two research papers** during the semester, depending on enrollment. You can use the **[paper list]()** to sign up for your preferred papers.
 
-- **Before January 18:**  
+- **Before August 30:**  
   Students may freely sign up for available papers using the shared spreadsheet. Please sign up for **two papers** unless instructed otherwise.
 
-- **After January 18:**  
+- **After August 30:**  
   Any papers that remain unassigned will be **randomly allocated** to students by the instructor, or the instructor will present them. These assignments will be final.
 
 Slides must be uploaded **by 11:59pm the night before class** on the day of your presentation. Late submissions will incur penalties.
@@ -87,14 +87,15 @@ Slides must be uploaded **by 11:59pm the night before class** on the day of your
 This course includes a final project in lieu of a final exam. Projects may be completed individually or in groups of two. Groups of more than two are not permitted. The final project consists of:
 
 - Project Proposal (10%)
-- Project Presentation (40%)
-- Project Paper (50%)
+- Project Mid-term Review (20%)
+- Project Presentation (30%)
+- Project Paper (40%)
 
 ## Group List
 
-Please form the final project group before **January 21st**, and sign up using the shared **[spreadsheet](https://docs.google.com/spreadsheets/d/19qAzsmsuGjSAJNezcRXxPXr6BPTXsXD4tGx1Muk-uGA/edit?usp=sharing)**. Please don't modify the information of other groups.
+Please form the final project group before **August 30th**, and sign up using the shared **[spreadsheet]()**. Please don't modify the information of other groups.
 
-## Three Parts Including Point Values
+## Four Parts Including Point Values
 
 I will meet with each student or group to discuss potential project topics. Suitable topics include, but are not limited to:
 
@@ -114,11 +115,12 @@ I will meet with each student or group to discuss potential project topics. Suit
 
 See latex template at [link](https://drive.google.com/file/d/16uQ-fbVysshhh13xvnpNy5GYPAMcplDK/view?usp=sharing).
 
+**P2: Project Mid-term Review** *(20 Points):* Around the middle of the semester, each group will schedule a brief meeting with the instructor. One member from each group (different from the proposal presenter) will present a set of slides that summarize the group’s progress up to that point.
 
-**P2: Project Presentation** *(40 Points):* Presentations will take place during the final 2 - 3 lectures of the semester. Each student or group will give a short presentation (length announced later) summarizing the problem, approach, results, and conclusions. Attendance is required for all presentations.
+**P3: Project Presentation** *(30 Points):* Presentations will take place during the final 2 - 3 lectures of the semester. Each student or group will give a short presentation (length announced later) summarizing the problem, approach, results, and conclusions. Attendance is required for all presentations.
 
 
-**P3: Project Paper** *(50 Points):* Students must submit a written final report in PDF format. The report must use the [NeurIPS Latex style files](https://media.neurips.cc/Conferences/NeurIPS2025/Styles.zip) and should be no more than 8 pages excluding references (there is no minimum length requirement). The report may include a discussion of possible future extensions.
+**P4: Project Paper** *(40 Points):* Students must submit a written final report in PDF format. The report must use the [NeurIPS Latex style files](https://media.neurips.cc/Conferences/NeurIPS2025/Styles.zip) and should be no more than 8 pages excluding references (there is no minimum length requirement). The report may include a discussion of possible future extensions.
 
 
 
@@ -127,11 +129,13 @@ See latex template at [link](https://drive.google.com/file/d/16uQ-fbVysshhh13xvn
 
 | Part | Description |Location| Due Date (Time) |
 |----|-------------|---------------------|---------------:|
-| P1  | Project Proposal | Canvas | Feb. 15 (11:59PM)|
-|   | Proposal Meeting | Hanes 334 | Feb. 17 / Feb. 19 (Lecture Time)|
-| P2  | Presentation Slides |Canvas| Apr. 20 / Apr. 22 (11:59PM)|
-|   | Final Presentation|Class| Apr. 21 / Apr. 23 (Lecture time)|
-| P3  | Final Report|Canvas|Apr. 30 (11:59PM)|
+| P1  | Project Proposal | Canvas | Sep. 20 (11:59PM)|
+|   | Proposal Meeting | Hanes 334 | Sep. 22 / Sep. 24 (Lecture Time)|
+| P2  | Mid-term Review Slides |Canvas| Oct. 18 (11:59PM)|
+|   | Review Meeting|Hanes 334| Oct. 20 / Oct. 24 (Lecture time)|
+| P3  | Presentation Slides |Canvas| Nov. 23 / Nov. 30 (11:59PM)|
+|   | Final Presentation|Class| Nov. 24 / Dec. 01 (Lecture time)|
+| P4  | Final Report|Canvas|Dec. 04 (11:59PM)|
 
 
 
