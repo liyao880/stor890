@@ -30,34 +30,34 @@ See the **[syllabus](Syllabi/891_Syllabus.pdf)** for details. This topics course
 
 | Date | Topic | Paper Link| Slides|
 |:-----:|:------------------|:--------:|:-------:|
-|Aug. 18| Logistics and Overview | | [S1](https://drive.google.com/file/d/1qkf-3g5ZQOv_aBEeEKMQncWlBQ4ilwY7/view?usp=sharing) [S2](https://drive.google.com/file/d/1FBtdqSABPwhnW8sXwCVXbe-lmYKvdD5J/view?usp=sharing)|
-|Aug. 20|  MLP and CNN | | <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1EAZo74e5mKA8tqSPX-c0gQfckUqGuJdK/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/15Od7Kzat6ICSj-DPSP-G_8Q0z3dZubmV/view?usp=sharing">S2</a>|
-|Aug. 25| RNN | | <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1A0ZFIdQ07nfSD0mfNs8FQlgzlvIJjWZe/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/10uQj5O9IXZ9bht2OQZTmgP1yMYdpLYlr/view?usp=sharing">S2</a>|
-|Aug. 27| Transformer | | <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1_T2Sw_Hxl_xq6QlyDd5vvpwPVyJnciNb/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1igFlz6Wr3xVdcJz9Id5FEPsvpjd0nig_/view?usp=sharing">S2</a>|
-|Sep. 01| Generative models  |[P1](https://arxiv.org/abs/2006.11239)     [P2](https://openreview.net/pdf/910c5efa5739a5d2bef83d432da87d3096712ebe.pdf) | <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/12d60XHH0loXfSvH-XGOmtlrdDsdHdFTu/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1eKKlloLjuW3bpZ70FFHYfdRGra79tgNw/view?usp=sharing">S2</a>|
-|Sep. 03| LLM | | <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1EEpG4bzEUX98iJ92d5bbo85poGZbupXv/view?usp=sharing">S1</a>|
-|Sep. 08| Backdoor attack | | |
-|Sep. 10| Backdoor defense|  | |
-|Sep. 15| Federated learning|  | |
-|Sep. 17| Adversarial attack | | |
+|Aug. 18| Logistics and Overview | | |
+|Aug. 20|  AI Model Foundations | | |
+|Aug. 25| AI System | | |
+|Aug. 27| Guest Lecture I | | |
+|Sep. 01| Paper Reading Tutorial  |||
+|Sep. 03| Guest Lecture II | | |
+|Sep. 08| Distribution Shift | | |
+|Sep. 10| Spurious Correlations|  | |
+|Sep. 15| Explainable AI|  | |
+|Sep. 17| Machine Unlearning | | |
 |Sep. 22| Project Proposal Discussion || |
 |Sep. 24| Project Proposal Discussion || |
-|Sep. 29| Adversarial defense || |
-|Oct. 01| Privacy attacks || |
+|Sep. 29| Backdoor Attacks || |
+|Oct. 01| Backdoor Defenses || |
 |Oct. 06| Well-Being Day || |
-|Oct. 08| Explainable AI || |
-|Oct. 13| Fairness || |
+|Oct. 08| Hallucinations || |
+|Oct. 13| LLM Backdoors || |
 |Oct. 15| Fall Break || |
 |Oct. 20| Midpoint Project Review || |
 |Oct. 22| Midpoint Project Review || |
-|Oct. 27| Watermark LLM | | |
-|Oct. 29| AI Content Detection | | |
-|Nov. 03| Jailbreak attack | | |
-|Nov. 05| Jailbreak defense || |
-|Nov. 10| Backdoor in LLM | | |
-|Nov. 12| Backdoor defense in LLM || |
-|Nov. 17| Poisoned RAG || |
-|Nov. 19| Hallucination || |
+|Oct. 27| LLM Backdoor Defenses | | |
+|Oct. 29| Jailbreak Attacks | | |
+|Nov. 03| Jailbreak Defenses | | |
+|Nov. 05| Watermark || |
+|Nov. 10| AI Content Detection | | |
+|Nov. 12| RAG Security || |
+|Nov. 17| Agent Security || |
+|Nov. 19| Multimodal Safety || |
 |Nov. 24| Final Presentation || |
 |Nov. 26| Thanksgiving || |
 |Dec. 01| Final Presentation || |
