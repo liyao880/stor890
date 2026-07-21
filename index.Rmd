@@ -31,11 +31,11 @@ See the **[syllabus](Syllabi/891_Syllabus.pdf)** for details. This topics course
 | Date | Topic | Paper Link| Slides|
 |:-----:|:------------------|:--------:|:-------:|
 |Aug. 18| Logistics and Overview | | |
-|Aug. 20|  AI Model Foundations | | |
-|Aug. 25| AI System | | |
-|Aug. 27| Guest Lecture I | | |
+|Aug. 20|  Model Foundations I | | |
+|Aug. 25| Model Foundations II | | |
+|Aug. 27| AI System | | |
 |Sep. 01| Paper Reading Tutorial  |||
-|Sep. 03| Guest Lecture II | | |
+|Sep. 03| Guest Lecture I | | |
 |Sep. 08| Distribution Shift | | |
 |Sep. 10| Spurious Correlations|  | |
 |Sep. 15| Explainable AI|  | |
@@ -46,18 +46,18 @@ See the **[syllabus](Syllabi/891_Syllabus.pdf)** for details. This topics course
 |Oct. 01| Backdoor Defenses || |
 |Oct. 06| Well-Being Day || |
 |Oct. 08| Hallucinations || |
-|Oct. 13| LLM Backdoors || |
+|Oct. 13| Guest Lecture II || |
 |Oct. 15| Fall Break || |
 |Oct. 20| Midpoint Project Review || |
 |Oct. 22| Midpoint Project Review || |
-|Oct. 27| LLM Backdoor Defenses | | |
-|Oct. 29| Jailbreak Attacks | | |
-|Nov. 03| Jailbreak Defenses | | |
-|Nov. 05| Watermark || |
-|Nov. 10| AI Content Detection | | |
-|Nov. 12| RAG Security || |
-|Nov. 17| Agent Security || |
-|Nov. 19| Multimodal Safety || |
+|Oct. 27| LLM Backdoors || |
+|Oct. 29| LLM Backdoor Defenses | | |
+|Nov. 03| Jailbreak Attacks | | |
+|Nov. 05| Jailbreak Defenses | | |
+|Nov. 10| Watermark || |
+|Nov. 12| AI Content Detection | | |
+|Nov. 17| RAG Security || |
+|Nov. 19| Agent Security || |
 |Nov. 24| Final Presentation || |
 |Nov. 26| Thanksgiving || |
 |Dec. 01| Final Presentation || |
