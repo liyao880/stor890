@@ -120,7 +120,7 @@ See latex template at [link](https://drive.google.com/file/d/16uQ-fbVysshhh13xvn
 **P3: Project Presentation** *(30 Points):* Presentations will take place during the final 2 - 3 lectures of the semester. Each student or group will give a short presentation (length announced later) summarizing the problem, approach, results, and conclusions. Attendance is required for all presentations.
 
 
-**P4: Project Paper** *(40 Points):* Students must submit a written final report in PDF format. The report must use the [NeurIPS Latex style files](https://media.neurips.cc/Conferences/NeurIPS2025/Styles.zip) and should be no more than 8 pages excluding references (there is no minimum length requirement). The report may include a discussion of possible future extensions.
+**P4: Project Paper** *(40 Points):* Students must submit a written final report in PDF format. The report must use the [NeurIPS Latex style files](https://media.neurips.cc/Conferences/NeurIPS2026/Formatting_Instructions_For_NeurIPS_2026.zip) and should be no more than 8 pages excluding references (there is no minimum length requirement). The report may include a discussion of possible future extensions.
 
 
 
