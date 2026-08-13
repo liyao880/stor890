@@ -65,7 +65,7 @@ See the **[syllabus](Syllabi/891_Syllabus.pdf)** for details. This topics course
 
 # **Class Participation**
 
-Use the **[participation record]()** to report class participation. 
+Use the **[participation record](https://docs.google.com/spreadsheets/d/1XJvqL33vp5ecRKJvXrBh1fkvP7qJnlyMs8So0exkBvU/edit?usp=sharing)** to report class participation. 
 
 
 # **Paper Presentation**
@@ -93,7 +93,7 @@ This course includes a final project in lieu of a final exam. Projects may be co
 
 ## Group List
 
-Please form the final project group before **August 30th**, and sign up using the shared **[spreadsheet]()**. Please don't modify the information of other groups.
+Please form the final project group before **August 30th**, and sign up using the shared **[spreadsheet](https://docs.google.com/spreadsheets/d/1sgR0Uvi4lAGPaBG-KR84ivds-PrFK82kv7sj-jMKv-Y/edit?usp=sharing)**. Please don't modify the information of other groups.
 
 ## Four Parts Including Point Values
 
@@ -120,7 +120,7 @@ See latex template at [link](https://drive.google.com/file/d/16uQ-fbVysshhh13xvn
 **P3: Project Presentation** *(30 Points):* Presentations will take place during the final 2 - 3 lectures of the semester. Each student or group will give a short presentation (length announced later) summarizing the problem, approach, results, and conclusions. Attendance is required for all presentations.
 
 
-**P4: Project Paper** *(40 Points):* Students must submit a written final report in PDF format. The report must use the [NeurIPS Latex style files](https://media.neurips.cc/Conferences/NeurIPS2026/Formatting_Instructions_For_NeurIPS_2026.zip) and should be no more than 8 pages excluding references (there is no minimum length requirement). The report may include a discussion of possible future extensions.
+**P4: Project Paper** *(40 Points):* Students must submit a written final report in PDF format. The report must use the [ICML Latex style files](https://media.icml.cc/Conferences/ICML2026/Styles/icml2026.zip) and should be no more than 8 pages excluding references (there is no minimum length requirement). The report may include a discussion of possible future extensions.
 
 
 
