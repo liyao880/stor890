@@ -70,7 +70,7 @@ Use the **[participation record]()** to report class participation.
 
 # **Paper Presentation**
 
-Each student will present **one or two research papers** during the semester, depending on enrollment. You can use the **[paper list]()** to sign up for your preferred papers.
+Each student will present **one or two research papers** during the semester, depending on enrollment. You can use the **[paper list](https://docs.google.com/spreadsheets/d/1REcLyv-EHMQlI7F24bqCPKh0MY8Vdg4s_dYUiitgt50/edit?usp=sharing)** to sign up for your preferred papers.
 
 - **Before August 30:**  
   Students may freely sign up for available papers using the shared spreadsheet. Please sign up for **two papers** unless instructed otherwise.
