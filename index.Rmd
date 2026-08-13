@@ -30,7 +30,7 @@ See the **[syllabus](Syllabi/891_Syllabus.pdf)** for details. This topics course
 
 | Date | Topic | Paper Link| Slides|
 |:-----:|:------------------|:--------:|:-------:|
-|Aug. 18| Logistics and Overview | | |
+|Aug. 18| Logistics and Overview | |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1FIDwf0CFD8tZL65XMalqdQHE_LUMCkgA/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1vALviiN-kVVr7XeVKXOSfyNYQ7NaIP3L/view?usp=drive_link">S2</a> |
 |Aug. 20|  Model Foundations I | | |
 |Aug. 25| Model Foundations II | | |
 |Aug. 27| AI System | | |
