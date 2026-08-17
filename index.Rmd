@@ -146,7 +146,7 @@ This page was last updated on `r Sys.time()` Eastern Time.
 
 <script>
   document.addEventListener("DOMContentLoaded", function() {
-    const correctPassword = "hanes890"; // Set your password here
+    const correctPassword = "hanes891"; // Set your password here
     const links = document.getElementsByClassName("protected-link");
 
     for (let i = 0; i < links.length; i++) {
