@@ -34,7 +34,7 @@ See the **[syllabus](Syllabi/891_Syllabus.pdf)** for details. This topics course
 |Aug. 20|  Model Foundations I | | <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1CjyZdFiNgbk9ie-wCEiKZyu0ceASqswc/view?usp=drive_link">S1</a>|
 |Aug. 25| Model Foundations II | | |
 |Aug. 27| AI System | | <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1Mi70TZvhnv6QQ1M6b5ASDgsJPAjFxq5W/view?usp=sharing">S1</a>|
-|Sep. 01| Paper Reading Tutorial  |||
+|Sep. 01| Paper Reading Tutorial  |[P1](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Invisible_Backdoor_Attack_With_Sample-Specific_Triggers_ICCV_2021_paper.pdf)|<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1LOT7jufMTyqYtFGq9nFtO3wJTvLDgRKF/view?usp=sharing">S1</a>|
 |Sep. 03| Guest Lecture I | | |
 |Sep. 08| Distribution Shift | | |
 |Sep. 10| Spurious Correlations|  | |
