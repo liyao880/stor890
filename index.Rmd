@@ -39,7 +39,7 @@ See the **[syllabus](Syllabi/891_Syllabus.pdf)** for details. This topics course
 |Sep. 08| Distribution Shift | |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1wwpJDFgDDQ9QUhBMnmaGRjpZwVIFNngj/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1IkBBfYcyUE2FrqczyGvD7lxuZns-5fOn/view?usp=sharing">S2</a> |
 |Sep. 10| Spurious Correlations|  | <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/16MJDt6eUzXsGBOPXlgJujJL1SZOfPR_-/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1VEnCIPByDs__IKvLiUaD3P6w73jVYzWf/view?usp=sharing">S2</a>|
 |Sep. 15| Explainable AI|  |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1v5p9X7CYBIzLfQ1buFXS1xLb4bX-2glO/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1GKfHUApfqnEmYrJpRCd9OTmlGYrhi19h/view?usp=sharing">S2</a>|
-|Sep. 17| Machine Unlearning | | |
+|Sep. 17| Machine Unlearning | |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1DO5QGPgTFYXytvyhxXursfhBdBRnPjGC/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1wlyXmGdo56W_-B-h2FGGwrRwM-qSR2Yz/view?usp=sharing">S2</a> |
 |Sep. 22| Project Proposal Discussion || |
 |Sep. 24| Project Proposal Discussion || |
 |Sep. 29| Backdoor Attacks || |
