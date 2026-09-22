@@ -132,8 +132,8 @@ See latex template at [link](https://drive.google.com/file/d/16uQ-fbVysshhh13xvn
 |----|-------------|---------------------|---------------:|
 | P1  | Project Proposal | Canvas | Sep. 20 (11:59PM)|
 |   | Proposal Meeting | Hanes 334 | Sep. 22 / Sep. 24 (Lecture Time)|
-| P2  | Mid-term Review Slides |Canvas| Oct. 18 (11:59PM)|
-|   | Review Meeting|Hanes 334| Oct. 20 / Oct. 24 (Lecture time)|
+| P2  | Mid-term Review Slides |Canvas| Oct. 25 (11:59PM)|
+|   | Review Meeting|Hanes 334| Oct. 27 / Oct. 29 (Lecture time)|
 | P3  | Presentation Slides |Canvas| Nov. 23 / Nov. 30 (11:59PM)|
 |   | Final Presentation|Class| Nov. 24 / Dec. 01 (Lecture time)|
 | P4  | Final Report|Canvas|Dec. 04 (11:59PM)|
