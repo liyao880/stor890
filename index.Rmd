@@ -55,8 +55,9 @@ See the **[syllabus](Syllabi/891_Syllabus.pdf)** for details. This topics course
 |Nov. 03| Jailbreak Attacks | | |
 |Nov. 05| Jailbreak Defenses | | |
 |Nov. 10| Watermark || |
-|Nov. 12| AI Content Detection | | |
-|Nov. 17| RAG Security || |
+|Nov. 12| Guest Lecture III || |
+|Nov. 17| AI Content Detection | | |
+|| RAG Security || |
 |Nov. 19| Agent Security || |
 |Nov. 24| Final Presentation || |
 |Nov. 26| Thanksgiving || |
