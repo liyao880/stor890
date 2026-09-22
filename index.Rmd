@@ -48,14 +48,14 @@ See the **[syllabus](Syllabi/891_Syllabus.pdf)** for details. This topics course
 |Oct. 08| Hallucinations || |
 |Oct. 13| Guest Lecture II || |
 |Oct. 15| Fall Break || |
-|Oct. 20| Midpoint Project Review || |
-|Oct. 22| Midpoint Project Review || |
-|Oct. 27| LLM Backdoors || |
-|Oct. 29| LLM Backdoor Defenses | | |
+|Oct. 20| LLM Backdoors || |
+|Oct. 22| Guest Lecture III | | |
+|Oct. 27| Midpoint Project Review || |
+|Oct. 29| Midpoint Project Review || |
 |Nov. 03| Jailbreak Attacks | | |
 |Nov. 05| Jailbreak Defenses | | |
 |Nov. 10| Watermark || |
-|Nov. 12| Guest Lecture III || |
+|Nov. 12| Guest Lecture IV || |
 |Nov. 17| AI Content Detection | | |
 || RAG Security || |
 |Nov. 19| Agent Security || |
