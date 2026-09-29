@@ -42,7 +42,7 @@ See the **[syllabus](Syllabi/891_Syllabus.pdf)** for details. This topics course
 |Sep. 17| Machine Unlearning | |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1DO5QGPgTFYXytvyhxXursfhBdBRnPjGC/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1wlyXmGdo56W_-B-h2FGGwrRwM-qSR2Yz/view?usp=sharing">S2</a> |
 |Sep. 22| Project Proposal Discussion || |
 |Sep. 24| Project Proposal Discussion || |
-|Sep. 29| Backdoor Attacks || |
+|Sep. 29| Backdoor Attacks ||<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/16EDhuHY4TyhTIL8oj7PbrBg-L0f7q9vg/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1wLfRlTlyWNMPBBR06_4H-CxgJVLDq1jf/view?usp=sharing">S2</a> |
 |Oct. 01| Backdoor Defenses || |
 |Oct. 06| Well-Being Day || |
 |Oct. 08| Hallucinations || |
