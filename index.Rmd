@@ -45,7 +45,7 @@ See the **[syllabus](Syllabi/891_Syllabus.pdf)** for details. This topics course
 |Sep. 29| Backdoor Attacks ||<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/16EDhuHY4TyhTIL8oj7PbrBg-L0f7q9vg/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1wLfRlTlyWNMPBBR06_4H-CxgJVLDq1jf/view?usp=sharing">S2</a> |
 |Oct. 01| Backdoor Defenses ||<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1nphNPUA5u2XR3v3ARTxbNV9HSp_QC2em/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1tAejr926MMe8MtSslIJAr4dgasYkv8qS/view?usp=sharing">S2</a> |
 |Oct. 06| Well-Being Day || |
-|Oct. 08| Hallucinations || |
+|Oct. 08| Hallucinations ||<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1SlggMHcJb3mqucOyCJFUfbyOFtA2b-IK/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1K_5W-a-mShFlmuO4XqiixDBmDNwjaXNJ/view?usp=sharing">S2</a> |
 |Oct. 13| Guest Lecture II || |
 |Oct. 15| Fall Break || |
 |Oct. 20| LLM Backdoor Attack and Defense || |
