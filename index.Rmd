@@ -48,7 +48,7 @@ See the **[syllabus](Syllabi/891_Syllabus.pdf)** for details. This topics course
 |Oct. 08| Hallucinations ||<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1SlggMHcJb3mqucOyCJFUfbyOFtA2b-IK/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1K_5W-a-mShFlmuO4XqiixDBmDNwjaXNJ/view?usp=sharing">S2</a> |
 |Oct. 13| Guest Lecture II || |
 |Oct. 15| Fall Break || |
-|Oct. 20| LLM Backdoor Attack and Defense || |
+|Oct. 20| LLM Backdoor Attack and Defense || <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1EJQsAm7pN_MO-hrryEcSUM3MdTzp5Cxb/view?usp=sharing">S1</a>|
 |Oct. 22| Guest Lecture III | | |
 |Oct. 27| Midpoint Project Review || |
 |Oct. 29| Midpoint Project Review || |
