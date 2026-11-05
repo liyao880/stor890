@@ -53,7 +53,7 @@ See the **[syllabus](Syllabi/891_Syllabus.pdf)** for details. This topics course
 |Oct. 27| Midpoint Project Review || |
 |Oct. 29| Midpoint Project Review || |
 |Nov. 03| Jailbreak Attacks | |<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1lzgzbfYTFYt0P78eKLWjz_kKSzcOlAq6/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1LgFXXz9P2OHr_Xfn9Ydl0J-WVySoKXFZ/view?usp=sharing">S2</a> |
-|Nov. 05| Jailbreak Defenses | | |
+|Nov. 05| Jailbreak Defenses | | <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/10lpto2g0kxPE0a3etWL2HmCJAS1cHakA/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1dLpyqYZKhTOy-LcNIwlU3rHURq2ZeBZE/view?usp=sharing">S2</a>|
 |Nov. 10| Watermark || |
 |Nov. 12| Guest Lecture IV || |
 |Nov. 17| AI Content Detection | | |
