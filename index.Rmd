@@ -56,8 +56,8 @@ See the **[syllabus](Syllabi/891_Syllabus.pdf)** for details. This topics course
 |Nov. 05| Jailbreak Defenses | | <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/10lpto2g0kxPE0a3etWL2HmCJAS1cHakA/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1dLpyqYZKhTOy-LcNIwlU3rHURq2ZeBZE/view?usp=sharing">S2</a>|
 |Nov. 10| Watermark || <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1EqDNSi61r4M4-bhI_wnlNC56DXyymBKd/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1CacCmX-4QsVGtNC68HYUtfxVJctHDMLX/view?usp=sharing">S2</a>|
 |Nov. 12| Guest Lecture IV || |
-|Nov. 17| AI Content Detection | | |
-|| RAG Security || |
+|Nov. 17| AI Content Detection | | <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1T94Uw4iPDpFR2IdFv9RRxmJXVTsXH4s-/view?usp=sharing">S1</a> |
+|| RAG Security ||<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1jBg643bcaE0NrS_78AhC5M9UO6vNl8t2/view?usp=sharing">S2</a> |
 |Nov. 19| Agent Security || |
 |Nov. 24| Final Presentation || |
 |Nov. 26| Thanksgiving || |
