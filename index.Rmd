@@ -58,7 +58,7 @@ See the **[syllabus](Syllabi/891_Syllabus.pdf)** for details. This topics course
 |Nov. 12| Guest Lecture IV || |
 |Nov. 17| AI Content Detection | | <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1T94Uw4iPDpFR2IdFv9RRxmJXVTsXH4s-/view?usp=sharing">S1</a> |
 || RAG Security ||<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1jBg643bcaE0NrS_78AhC5M9UO6vNl8t2/view?usp=sharing">S2</a> |
-|Nov. 19| Agent Security || |
+|Nov. 19| Agent Security ||<a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1oTuVdgYI5GGLDc6RJ7_1JNPl-pVbQnAq/view?usp=sharing">S1</a> <a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1_7B8Z0lvNRGMM-vbBfjULV7E5PAYzDCt/view?usp=sharing">S2</a> |
 |Nov. 24| Final Presentation || |
 |Nov. 26| Thanksgiving || |
 |Dec. 01| Final Presentation || |
